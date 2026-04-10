@@ -1,26 +1,104 @@
-<img width="1899" height="504" alt="image" src="https://github.com/user-attachments/assets/6343137b-758c-4572-bba4-ec449e4af21f" />
-
-<h1 align="center">Hi 👋, I'm Tasmim Mira</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mira-2234" alt="mira-2234" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tasmim-22" target="blank"><img src="https://img.shields.io/twitter/follow/tasmim-22?logo=twitter&style=for-the-badge" alt="tasmim-22" /></a> </p>
-
-- 🌱 I’m currently learning **React, Next.js.**
-
-- 📫 How to reach me **tasmimmira822@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tasmim-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tasmim-22" height="30" width="40" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mira;Frontend+Developer;React+%26+Next.js+Enthusiast;Building+beautiful+UIs" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" />
+</p>
+<p align="center">
+  <a href="https://github.com/Mira-2234">
+    <img src="https://img.shields.io/github/followers/Mira-2234?label=Followers&style=flat&logo=github&color=58a6ff" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mira-2234&label=Profile+Views&color=58a6ff&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-58a6ff?style=flat" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-success?style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+👩‍💻 About Me
+javascriptconst Mira = {
+  username:   "Mira-2234",
+  role:       "Frontend Developer",
+  languages:  ["JavaScript", "TypeScript"],
+  frameworks: ["React", "Next.js"],
+  interests:  ["UI/UX", "Open Source", "Clean Code"],
+  currentlyLearning: "Advanced TypeScript & System Design",
+  funFact:    "I debug with console.log and I'm proud of it 😄"
+};
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mira-2234&show_icons=true&locale=en&layout=compact" alt="mira-2234" /></p>
+🔭 Currently working on exciting React / Next.js projects
+🌱 Always learning something new in the frontend world
+💬 Ask me about JavaScript, TypeScript, React, Next.js
+⚡ Fun fact: I turn coffee ☕ into beautiful UIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mira-2234&show_icons=true&locale=en" alt="mira-2234" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mira-2234&" alt="mira-2234" /></p>
+🛠️ Tech Stack
+Languages & Frameworks
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Styling & UI
+Show Image
+Show Image
+Show Image
+Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mira-2234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mira-2234&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-2234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" />
+</p>
+
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mira-2234&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mira-2234&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/Mira-2234">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mira-2234&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Mira-2234">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mira-2234&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</p>
+
+💡 Replace YOUR-REPO-1 and YOUR-REPO-2 with your actual repository names.
+
+
+📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/Mira-2234">
+    <img src="https://img.shields.io/badge/GitHub-Mira--2234-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
+</p>
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+<p align="center">Made with ❤️ by Mira</p>
