@@ -73,4 +73,4 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 <p align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </p>
-<p align="center">Made with ❤️ by Mira</p>
+
