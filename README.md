@@ -52,7 +52,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
       </ul>
     </td>
     <td width="40%" align="center">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4cnpueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Female Coder GIF" />
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1qhM9K9Y3GByqC9/giphy.gif" width="100%" alt="Female Developer GIF" />
     </td>
   </tr>
 </table>
