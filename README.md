@@ -24,6 +24,7 @@ const Mira = {
   currentlyLearning: "Advanced TypeScript & System Design",
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
+
 🔭 Currently working on exciting React / Next.js projects
 🌱 Always learning something new in the frontend world
 💬 Ask me about JavaScript, TypeScript, React, Next.js
