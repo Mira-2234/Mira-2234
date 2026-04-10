@@ -18,7 +18,7 @@
 
 ```javascript
 const developer = {
-  name: "Tasmim Mira",
+  username: "Mira-2234",
   role: "Front-end Developer & Software Engineering Student",
   skills: ["JavaScript", "Tailwind CSS", "DaisyUI"],
   
