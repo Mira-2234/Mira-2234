@@ -1,10 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mira;Frontend+Developer;React+%26+Next.js+Enthusiast;Building+beautiful+UIs" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <img width="1899" height="504" alt="image" src="https://github.com/user-attachments/assets/7b83897f-8424-4219-b6b9-53868842e3a9" />
 
-</p>
 <p align="center">
   <a href="https://github.com/Mira-2234">
     <img src="https://img.shields.io/github/followers/Mira-2234?label=Followers&style=flat&logo=github&color=58a6ff" />
@@ -21,63 +18,10 @@ const developer = {
   username: "Mira-2234",
   role: "Front-end Developer & Software Engineering Student",
   skills: ["JavaScript", "Tailwind CSS", "DaisyUI"],
-  
   currentlyLearning: {
-    language: "Next,js", "React"
+    language: ["Next.js", "React"],
     concepts: ["Closures", "Asynchronous JS"]
-
+  },
+  funFact: "I debug with console.log and I'm proud of it 😄"
 };
-funFact: "I debug with console.log and I'm proud of it 😄"
 ```
-
-
-## Talking about Personal Stuff:
-
-- 🌱 I'm currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**.
-- 🛠️ I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**.
-- 📫 Reach me out: [tasmimmira822@gmail.com](mailto:tasmimmira822@gmail.com)
-
-## My Absolute Favorites:
-
-- 🔭 I love exploring new technologies and building cool stuff.
-- 💬 Meetups & Tech Events & Hackathons.
-
-
-  <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,vscode,github,figma,next.js" />
-  </a>
-</p>
-
-
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mira-2234&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-2234&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mira-2234&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
-
-
-📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/Mira-2234">
-    <img src="https://img.shields.io/badge/GitHub-Mira--2234-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:tasmimmira822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://www.linkedin.com/in/tasmim-mira-476745268/](https://www.linkedin.com/in/tasmim-mira-476745268/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
-<p align="center">Made with ❤️ by Mira</p>
