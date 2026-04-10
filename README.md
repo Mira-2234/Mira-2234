@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mira;Frontend+Developer;React+%26+Next.js+Enthusiast;Building+beautiful+UIs" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" />
+  <img width="1899" height="504" alt="image" src="https://github.com/user-attachments/assets/7b83897f-8424-4219-b6b9-53868842e3a9" />
+
 </p>
 <p align="center">
   <a href="https://github.com/Mira-2234">
