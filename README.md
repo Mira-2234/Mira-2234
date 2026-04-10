@@ -1,35 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mira;Frontend+Developer;React+%26+Next.js+Enthusiast;Building+beautiful+UIs" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <img width="1899" height="504" alt="image" src="https://github.com/user-attachments/assets/7b83897f-8424-4219-b6b9-53868842e3a9" />
-
-</p>
-<p align="center">
-  <a href="https://github.com/Mira-2234">
-    <img src="https://img.shields.io/github/followers/Mira-2234?label=Followers&style=flat&logo=github&color=58a6ff" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Web+Developer;Learning+Software+Engineering;Building+Modern+Web+Apps;Tailwind+CSS+Enthusiast" alt="Typing SVG" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mira-2234&label=Profile+Views&color=58a6ff&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-58a6ff?style=flat" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-success?style=flat" />
-</p>
+</h1>
 
 ### 🚀 About Me
 
 ```javascript
 const developer = {
-  name: "Tasmim Mira",
+  name: "Your Name",
   role: "Front-end Developer & Software Engineering Student",
-  skills: ["JavaScript", "Tailwind CSS", "DaisyUI"],
-  
+  skills: ["JavaScript", "Tailwind CSS", "React", "DaisyUI"],
   currentlyLearning: {
-    language: "Next,js", "React"
-    concepts: ["Closures", "Asynchronous JS"]
-
+    language: "ES6+",
+    concepts: ["Closures", "Lexical Scope", "Asynchronous JS"]
+  },
+  currentProjects: ["GitHub Issues Tracker"],
+  passion: ["Modern UI Design", "AI Image Generation"]
 };
-funFact: "I debug with console.log and I'm proud of it 😄"
 ```
-
 
 ## Talking about Personal Stuff:
 
