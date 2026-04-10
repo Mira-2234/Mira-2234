@@ -43,25 +43,14 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 - 💬 Meetups & Tech Events & Hackathons.
 
 
-🛠️ Tech Stack
-Languages & Frameworks
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Styling & UI
-Show Image
-Show Image
-Show Image
-Tools & Platforms
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+  <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,vscode,github,figma,next.js" />
+  </a>
+</p>
+
 
 📊 GitHub Stats
 <p align="center">
