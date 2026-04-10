@@ -54,12 +54,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 ## 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Open%20Source%20Projects-3+-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Commits-Loading...-58a6ff?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Code%20Review-Enthusiast-success?style=for-the-badge&logo=lighthouse" />
-</p>
-
+<img src="https://streak-stats.demolab.com?user=Mira-2234&theme=vue-dark&hide_border=true" alt="Mira-2234's GitHub Stats" />
 
 
 📫 Connect With Me
