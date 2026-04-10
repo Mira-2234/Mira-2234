@@ -25,9 +25,8 @@ const Mira = {
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
 
-🔭 Currently working on exciting React / Next.js projects
+🔭 I’m currently learning React / Next.js
 🌱 Always learning something new in the frontend world
-💬 Ask me about JavaScript, TypeScript, React, Next.js
 ⚡ Fun fact: I turn coffee ☕ into beautiful UIs
 
 
@@ -88,10 +87,10 @@ Show Image
   <a href="https://github.com/Mira-2234">
     <img src="https://img.shields.io/badge/GitHub-Mira--2234-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:tasmimmira822@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tasmim-mira-476745268/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
