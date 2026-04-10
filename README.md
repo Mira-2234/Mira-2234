@@ -6,7 +6,7 @@
 
 </p>
 
-📫 Connect With Me
+### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Mira-2234">
     <img src="https://img.shields.io/badge/GitHub-Mira--2234-181717?style=for-the-badge&logo=github" />
@@ -38,14 +38,12 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 ## Talking about Personal Stuff:
 
-- 🌱 I'm currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**.
-- 🛠️ I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**.
+- 🌱 I’m currently learning React / Next.js **
+- 🛠️  Always learning something new in the frontend world **
+- 🔭 I love exploring new technologies and building cool stuff. **
 - 📫 Reach me out: [tasmimmira822@gmail.com](mailto:tasmimmira822@gmail.com)
 
-## My Absolute Favorites:
 
-- 🔭 I love exploring new technologies and building cool stuff.
-- 💬 Meetups & Tech Events & Hackathons.
 
 
   <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
