@@ -15,16 +15,15 @@
 </p>
 
 👩‍💻 About Me
-javascriptconst Mira = {
-  username:   "Mira-2234",
-  role:       "Frontend Developer",
-  languages:  ["JavaScript", "TypeScript"],
+const Mira = {
+  username: "Mira-2234",
+  role: "Frontend Developer",
+  languages: ["JavaScript", "TypeScript"],
   frameworks: ["React", "Next.js"],
-  interests:  ["UI/UX", "Open Source", "Clean Code"],
+  interests: ["UI/UX", "Open Source", "Clean Code"],
   currentlyLearning: "Advanced TypeScript & System Design",
-  funFact:    "I debug with console.log and I'm proud of it 😄"
+  funFact: "I debug with console.log and I'm proud of it 😄"
 };
-
 🔭 Currently working on exciting React / Next.js projects
 🌱 Always learning something new in the frontend world
 💬 Ask me about JavaScript, TypeScript, React, Next.js
