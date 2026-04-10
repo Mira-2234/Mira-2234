@@ -38,10 +38,26 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 ## Talking about Personal Stuff:
 
-- 🌱 I’m currently learning React / Next.js.
-- 🛠️  Always learning something new in the frontend world.
-- 🔭 I love exploring new technologies and building cool stuff.
-- 📫 Reach me out: [tasmimmira822@gmail.com](mailto:tasmimmira822@gmail.com)
+---
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>## Talking about Personal Stuff:</h3>
+      <ul>
+        <li>🌱 I’m currently learning <b>React / Next.js</b>.</li>
+        <li>🛠️ Always learning something new in the frontend world.</li>
+        <li>🔭 I love exploring new technologies and building cool stuff.</li>
+        <li>📫 Reach me out: <a href="mailto:tasmimmira822@gmail.com">tasmimmira822@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4cnpueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
