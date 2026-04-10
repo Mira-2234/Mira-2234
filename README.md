@@ -65,7 +65,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
   <a href="mailto:tasmimmira822@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/tasmim-mira-476745268/](https://www.linkedin.com/in/tasmim-mira-476745268/)">
+  <a href="[https:[//www.linkedin.com/in/tasmim-mira-476745268/](https://www.linkedin.com/in/tasmim-mira-476745268/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
