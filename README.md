@@ -38,9 +38,9 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 ## Talking about Personal Stuff:
 
-- 🌱 I’m currently learning React / Next.js **
-- 🛠️  Always learning something new in the frontend world **
-- 🔭 I love exploring new technologies and building cool stuff. **
+- 🌱 I’m currently learning React / Next.js.
+- 🛠️  Always learning something new in the frontend world.
+- 🔭 I love exploring new technologies and building cool stuff.
 - 📫 Reach me out: [tasmimmira822@gmail.com](mailto:tasmimmira822@gmail.com)
 
 
