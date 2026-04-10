@@ -52,7 +52,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4cnpueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+     <img src="https://www.google.com/search?q=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhnNXptYXNudHphbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding loop GIF" />
     </td>
   </tr>
 </table>
