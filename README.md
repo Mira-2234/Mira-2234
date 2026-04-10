@@ -35,7 +35,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 - 🌱 I'm currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**.
 - 🛠️ I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**.
-- 📫 Reach me out: [nuradnanchowdhury015@gmail.com](mailto:nuradnanchowdhury015@gmail.com)
+- 📫 Reach me out: [tasmimmira822@gmail.com](mailto:tasmimmira822@gmail.com)
 
 ## My Absolute Favorites:
 
