@@ -28,6 +28,7 @@ const developer = {
 
 };
 funFact: "I debug with console.log and I'm proud of it 😄"
+```
 
 
 🔭 I’m currently learning React / Next.js
