@@ -18,9 +18,9 @@
 const Mira = {
   username: "Mira-2234",
   role: "Frontend Developer",
-  languages: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js"],
-  interests: ["UI/UX", "Open Source", "Clean Code"],
+  languages: "JavaScript",
+  frameworks: "React", "Next.js",
+  interests: "UI/UX", "Open Source", "Clean Code",
   currentlyLearning: "Advanced TypeScript & System Design",
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
