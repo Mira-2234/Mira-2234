@@ -31,11 +31,16 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 ```
 
 
-🔭 I’m currently learning React / Next.js
-🌱 Always learning something new in the frontend world
-⚡ Fun fact: I turn coffee ☕ into beautiful UIs
+## Talking about Personal Stuff:
 
+- 🌱 I'm currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**.
+- 🛠️ I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**.
+- 📫 Reach me out: [nuradnanchowdhury015@gmail.com](mailto:nuradnanchowdhury015@gmail.com)
 
+## My Absolute Favorites:
+
+- 🔭 I love exploring new technologies and building cool stuff.
+- 💬 Meetups & Tech Events & Hackathons.
 🛠️ Tech Stack
 Languages & Frameworks
 Show Image
