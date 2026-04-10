@@ -42,13 +42,6 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 - 🔭 I love exploring new technologies and building cool stuff.
 - 💬 Meetups & Tech Events & Hackathons.
 
-  <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,vscode,github,figma,next.js" />
-  </a>
-</p>
 
 🛠️ Tech Stack
 Languages & Frameworks
