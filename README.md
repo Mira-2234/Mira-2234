@@ -46,7 +46,7 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,vscode,github,npm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,vscode,github,figma,next.js" />
   </a>
 </p>
 
