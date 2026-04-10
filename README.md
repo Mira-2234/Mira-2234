@@ -1,4 +1,8 @@
-# Hi there, I'm [Tomar Naam]! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Web+Developer;Learning+Software+Engineering;Building+Modern+Web+Apps;Tailwind+CSS+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 I'm a passionate **Front-end Web Developer** and **Software Engineering Learner**. I love building clean, responsive, and user-friendly web applications.
 
