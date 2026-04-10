@@ -1,3 +1,5 @@
+<img width="1899" height="504" alt="image" src="https://github.com/user-attachments/assets/6343137b-758c-4572-bba4-ec449e4af21f" />
+
 <h1 align="center">Hi 👋, I'm Tasmim Mira</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
