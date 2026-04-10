@@ -65,25 +65,6 @@ Show Image
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-2234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 </p>
 
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mira-2234&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-
-🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/Mira-2234">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mira-2234&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Mira-2234">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mira-2234&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
-
-💡 Replace YOUR-REPO-1 and YOUR-REPO-2 with your actual repository names.
-
-
 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Mira-2234">
