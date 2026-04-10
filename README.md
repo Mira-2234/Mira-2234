@@ -52,16 +52,14 @@ funFact: "I debug with console.log and I'm proud of it 😄"
 </p>
 
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mira-2234&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-2234&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" width="48%" alt="Top Languages" />
+## 📊 GitHub Activity & Stats
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-3+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Commits-Loading...-58a6ff?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Code%20Review-Enthusiast-success?style=for-the-badge&logo=lighthouse" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mira-2234&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
 
 
 📫 Connect With Me
