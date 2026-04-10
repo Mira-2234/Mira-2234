@@ -78,14 +78,11 @@ Show Image
   <a href="mailto:tasmimmira822@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tasmim-mira-476745268/)">
+  <a href="[https://www.linkedin.com/in/tasmim-mira-476745268/](https://www.linkedin.com/in/tasmim-mira-476745268/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
-</p>
 <p align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </p>
